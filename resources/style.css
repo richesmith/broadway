@@ -42,3 +42,14 @@
 	font-style: 23px;
 	font-weight: bold;
 }
+
+.footer {
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+	font-family: helvetica;
+}
+.footer a {
+	color: white;
+
+}
